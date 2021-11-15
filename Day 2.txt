@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> DAY 2 </h1>
+<h2> Formatting </h2>
+
+<p><b> This paragraph is written in bold.</b></p>
+<p style="color:red;"><strong> This text is important and written in red.</strong></p>
+<hr>
+<i>This is written in italic.</i>
+<h3><em>This heading is emphasized</em></h3>
+<hr>
+<small>This is some smol text</small>
+<p>Don't forget to buy <mark>milk</mark> when you go shopping.</p>
+<hr>
+<h1 style="color:red;">My fovourite color is <del>blue<del> <ins>red</ins></h1>
+<p>This is <sub>subscripted</sub> and <sup>superscripted</sup> text.</p>
+
+<body>
+<html>
+
